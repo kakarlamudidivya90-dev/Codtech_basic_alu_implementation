@@ -231,7 +231,8 @@ Time=70dns | Control=110 | A=0011 B=0000 | Result=0110 | Carry=0 | Zero=0
 
 ---
 ## 5.console output (epwave window)
-![Console Screenshot](Screenshot_2026060_145729.jpg) 
+
+![EPWave Console Output](Screenshot_20260601_145906.jpg)
 
 
 ## 📊 6. Simulation Waveforms (EPWave)
