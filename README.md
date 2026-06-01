@@ -236,9 +236,8 @@ Time=70dns | Control=110 | A=0011 B=0000 | Result=0110 | Carry=0 | Zero=0
 
 ## 📊 6. Simulation Waveforms (EPWave)
 
-The simulation waveform response matching the test vectors chronologically:
-
-![Console Screenshot](Screenshot_2026060_145729.jpg)
+The simulation waveform response matching the test vectors chronologically
+![EPWave Waveform](Screenshot_20260601_145729.jpg)
 
 ---
 
