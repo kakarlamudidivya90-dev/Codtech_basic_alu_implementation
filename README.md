@@ -232,15 +232,14 @@ Time=70dns | Control=110 | A=0011 B=0000 | Result=0110 | Carry=0 | Zero=0
 
 ---
 ## 5.console output (epwave window)
-edaplayground-4bit-alu-code-and-logjpg
+![Console Screenshot](Screenshot_202606601_145906.jpg)
 
 
 ## 📊 6. Simulation Waveforms (EPWave)
 
 The simulation waveform response matching the test vectors chronologically:
 
-![ALU Simulation Waveform]
-epwave-4bit-alu-simulation-0to80nsjpg
+![Console Screenshot](Screenshot_2026060_145729.jpg)
 
 ---
 
