@@ -241,7 +241,8 @@ Time=70dns | Control=110 | A=0011 B=0000 | Result=0110 | Carry=0 | Zero=0
 The simulation waveform response matching the test vectors chronologically
 ![EPWave Waveform](Screenshot_20260601_145729.jpg)
 
-## 7.(Task2_Documentation.pdf)
+##7.[Task 2 Documentation](Task2_Documentation.pdf)
+
 
 ---
 
