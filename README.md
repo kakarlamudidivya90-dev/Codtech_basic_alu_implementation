@@ -10,12 +10,13 @@ BASIC AlU IMPLEMENTATION
 * 
 * Run Live on EDA Playground
 
-1. Launch the workspace: **[Launch EDA Playground Project](YOUR_EDA_PLAYGROUND_LINK_HERE)**
-2. Setup the left side configurations:
+1. Launch the workspace: **[Launch EDA Playground
+Project]https://share.google/PNd3W64S2HdVwdkAm
+3. Setup the left side configurations:
    * **Language/Tool:** SystemVerilog/Verilog
    * **Simulator:** Icarus Verilog
    * **Open EPWave after run:** Enabled (Checked)
-3. Click **Run** on the top toolbar to re-generate the wave diagrams.
+4. Click **Run** on the top toolbar to re-generate the wave diagrams.
 
 ## 📌 Project Overview
 This repository contains the Verilog HDL implementation and testbench verification of a basic **4-bit Arithmetic Logic Unit (ALU)**. This project focuses on implementing robust combinational logic for arithmetic, bitwise logical, and shift operations while maintaining proper status flags without generating unwanted latches.
