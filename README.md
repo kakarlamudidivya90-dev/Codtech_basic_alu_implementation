@@ -2,15 +2,25 @@
 BASIC AlU IMPLEMENTATION 
 # Design and Verification of a Basic 4-bit ALU
 
-## 📌 Project Overview
-This repository contains the Verilog HDL implementation and testbench verification of a basic **4-bit Arithmetic Logic Unit (ALU)**. This project focuses on implementing robust combinational logic for arithmetic, bitwise logical, and shift operations while maintaining proper status flags without generating unwanted latches.
-
-### 📋 Intern Information
+## 📋 Intern Information
 * **Company Name:** CODTECH IT SOLUTIONS
 * **Intern Name:** Kakarlamudi Divya
 * **Intern ID:** CITS998
 * **Domain:** Digital VLSI Design / RTL Verification
 * **Task Title:** Testbench for Basic 4-bit ALU
+* 
+* Run Live on EDA Playground
+
+1. Launch the workspace: **[Launch EDA Playground Project](YOUR_EDA_PLAYGROUND_LINK_HERE)**
+2. Setup the left side configurations:
+   * **Language/Tool:** SystemVerilog/Verilog
+   * **Simulator:** Icarus Verilog
+   * **Open EPWave after run:** Enabled (Checked)
+3. Click **Run** on the top toolbar to re-generate the wave diagrams.
+
+## 📌 Project Overview
+This repository contains the Verilog HDL implementation and testbench verification of a basic **4-bit Arithmetic Logic Unit (ALU)**. This project focuses on implementing robust combinational logic for arithmetic, bitwise logical, and shift operations while maintaining proper status flags without generating unwanted latches.
+
 
 ---
 
@@ -221,27 +231,19 @@ Time=70dns | Control=110 | A=0011 B=0000 | Result=0110 | Carry=0 | Zero=0
 * **Time = 70ns (Left Shift):** Operates on `A = 0011` (Decimal 3). Shifting it left by 1 bit updates the value to `0110` (Decimal 6).
 
 ---
+## 5.console output (epwave window)
+edaplayground-4bit-alu-code-and-logjpg
 
-## 📊 5. Simulation Waveforms (EPWave)
+
+## 📊 6. Simulation Waveforms (EPWave)
 
 The simulation waveform response matching the test vectors chronologically:
 
-![ALU Simulation Waveform](simulation_waveform.png)
-
-*(Note: Please ensure your uploaded waveform screenshot is named `simulation_waveform.png` in the root repository folder to display correctly above.)*
+![ALU Simulation Waveform]
+epwave-4bit-alu-simulation-0to80nsjpg
 
 ---
 
-## 🌐 6. Run Live on EDA Playground
-
-You can directly execute and modify this project online:
-
-1. Launch the workspace: **[Launch EDA Playground Project](YOUR_EDA_PLAYGROUND_LINK_HERE)**
-2. Setup the left side configurations:
-   * **Language/Tool:** SystemVerilog/Verilog
-   * **Simulator:** Icarus Verilog
-   * **Open EPWave after run:** Enabled (Checked)
-3. Click **Run** on the top toolbar to re-generate the wave diagrams.
 
 ---
 ## 🏁 Conclusion
