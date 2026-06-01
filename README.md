@@ -1,5 +1,5 @@
 # Codtech_basic_alu_implementation
-BASIC AlU IMPLEMENTATION 
+BASIC ALU IMPLEMENTATION 
 # Design and Verification of a Basic 4-bit ALu
 ## 📋 Intern Information
 * **Company Name:** CODTECH IT SOLUTIONS
