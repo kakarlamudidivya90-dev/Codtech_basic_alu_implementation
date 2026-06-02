@@ -11,7 +11,7 @@ BASIC ALU IMPLEMENTATION
 * Run Live on EDA Playground
 
 1. Launch the workspace: **[Launch EDA Playground
-Project]https://share.google/PNd3W64S2HdVwdkAm
+Project]https://www.edaplayground.com/x/SbFV
 3. Setup the left side configurations:
    * **Language/Tool:** SystemVerilog/Verilog
    * **Simulator:** Icarus Verilog
